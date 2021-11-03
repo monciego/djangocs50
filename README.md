@@ -1,0 +1,1 @@
+# djangocs50
